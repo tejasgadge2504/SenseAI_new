@@ -1,0 +1,4 @@
+# l10n.yaml  (place at project root, same level as pubspec.yaml)
+arb-dir: lib/l10n
+template-arb-file: app_en.arb
+output-localization-file: app_localizations.dart
