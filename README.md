@@ -6,7 +6,7 @@
 
 ## Overview
 
-SenseAI is an AI-driven healthcare assistant designed to support Community Health Workers (CHWs) and patients in rural and low-resource environments. The system provides real-time risk assessment, structured medical guidance, and multi-channel interaction through a Flutter mobile app, WhatsApp chatbot, and voice-based AI agent.
+SenseAI is an AI-driven healthcare assistant designed to support Community Health Workers (CHWs) and patients low-resource environments. The system provides real-time risk assessment, structured medical guidance, and multi-channel interaction through a Flutter mobile app, WhatsApp chatbot, and voice-based AI agent.
 
 The platform focuses on early detection and triage of critical health conditions such as maternal hemorrhage, tuberculosis (TB) adherence, pesticide poisoning, and diabetic foot ulcers (DFU). It ensures accessibility even in low-connectivity regions by integrating both cloud-based APIs and offline AI models.
 
@@ -14,7 +14,7 @@ The platform focuses on early detection and triage of critical health conditions
 
 ## Problem Statement
 
-In rural areas, access to timely medical guidance is limited due to:
+In many areas, access to timely medical guidance is limited due to:
 
 - Shortage of healthcare professionals
 - Poor internet connectivity
@@ -156,7 +156,6 @@ SenseAI uses domain-specific agents for modular processing:
 - **Hybrid AI System** – Seamless online/offline operation
 - **Clinical-Style Scoring** – Reliable structured outputs instead of random AI responses
 - **Multi-Platform Accessibility** – App + Chat + Voice in one platform
-- **Rural-First Design** – Built specifically for low-connectivity, low-resource environments
 - **Lightweight On-Device Inference** – Gemma 2B runs locally without internet
 
 ---
@@ -177,7 +176,7 @@ SenseAI aims to:
 
 - Reduce delay in identifying critical cases
 - Empower CHWs with decision support tools
-- Improve rural healthcare accessibility
+- Improve healthcare accessibility
 - Provide scalable and cost-effective healthcare assistance
 
 ---
